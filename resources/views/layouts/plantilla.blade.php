@@ -78,7 +78,7 @@
         </nav>
 
         <div class="container">
-            @yield('contenido')
+            @yield('content')
         </div>
     </body>
 </html>
